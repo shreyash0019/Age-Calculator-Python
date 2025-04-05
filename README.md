@@ -1,6 +1,6 @@
-# Age Calculator Python 
+# Age Calculation Program
 
-This repository contains script that calculates a user's age in years, months, and days based on their input. It uses the `time` and `calendar` modules to handle date and time operations.
+This program calculates a user's age in years, months, and days based on their input. It uses the `time` and `calendar` modules to handle date and time operations.
 
 ## Features
 
@@ -50,4 +50,3 @@ John's age is 25 years or 300 months or 9125 days
 - Python 3.x
 - `time` module (standard library)
 - `calendar` module (standard library)
-
